@@ -1,4 +1,4 @@
-// Vulnerable Node.js Express app example
+// Vulnerable Node.js Expsress app example
 
 const express = require('express');
 const app = express();
